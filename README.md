@@ -1,7 +1,7 @@
-# XOX-game-
+# XOX-game- and others
 
 Simple XOX game :) 
 
-funny practice on python 
+and some practices on python!
 
 will be updated :) 
