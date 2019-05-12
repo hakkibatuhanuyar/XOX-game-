@@ -1,4 +1,4 @@
-# XOX-game- and others
+# XOX-game-, cows&bulls game and others
 
 Simple XOX game :) 
 
